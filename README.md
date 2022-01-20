@@ -1,5 +1,6 @@
 # Beavis-and-Butthead-Gwar-Rules-Game
-A text-based game where the user plays as Butthead trying to achieve the ultimate objective of getting into a sold-out Gwar show. GWAR RULES!
+Beavis and Butthead: Gwar Rules! is a text-based game where the user plays as Butthead trying to achieve the ultimate objective of getting 
+into a sold-out Gwar show. Uh huh huh.
 
 The game begins on the couch at Butthead's house. Butthead is watching TV and learns in a commercial that Rabid Ron is giving away a pair of
 backstage passes outside of the sold out Gwar show tonight! Butthead has 4 hours to track down Beavis and get to the show. His journey will
